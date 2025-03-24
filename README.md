@@ -6,7 +6,7 @@
 
 -Check out my portfolio www.caitlin-young.co.uk
 
--Check out my linked in Caitlin Young
+-Check out my Linked In - Caitlin Young
 
 -Contact me caitlincnyoung@gmail.com
 
