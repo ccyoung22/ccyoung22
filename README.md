@@ -1,7 +1,6 @@
-## Hi there 👋 my name is Caitlin
+## Hi there my name is Caitlin
 
-- 🌱 I’m currently learning Javascript, React and Node js
-- ⚡ Fun fact: I have just completed the School of Code web development bootcamp!
+- For as long as I can remember, I’ve loved to create. Whether it’s through drawing, animation, building my own business, or more recently, software, I thrive on seeing a vision come to life.
 
 <!--
 **ccyoung22/ccyoung22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
