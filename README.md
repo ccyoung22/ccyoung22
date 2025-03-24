@@ -1,5 +1,6 @@
-## Hi there my name is Caitlin
+## Hi I'm Caitlin
 
+-Full stack developer/ React obsessed
 - For as long as I can remember, I’ve loved to create. Whether it’s through drawing, animation, building my own business, or more recently, software, I thrive on seeing a vision come to life.
 
 <!--
